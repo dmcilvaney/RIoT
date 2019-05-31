@@ -1,0 +1,14 @@
+{
+    "Registrations": [
+        {
+            "component": {
+                "type": "git",
+                "git": {
+                    "repositoryUrl": "https://github.com/intel/tinycbor.git",
+                    "commitHash": "aa3731592c784ce91e7fcafa66665c147b18be25"
+                }
+            }
+        }
+    ],
+    "Version": 1
+}
